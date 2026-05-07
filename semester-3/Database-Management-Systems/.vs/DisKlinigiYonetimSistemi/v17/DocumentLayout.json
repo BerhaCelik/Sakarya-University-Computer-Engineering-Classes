@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|c:\\users\\berha\\source\\repos\\disklinigiyonetimsistemi\\disklinigiyonetimsistemi\\formgelirraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formgelirraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formkritikstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formkritikstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formkritikstok.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formkritikstok.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formkritikstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formkritikstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formgelirraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formgelirraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formgelirraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formgelirraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaraporu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formstokliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formstokliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formstokliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formstokliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formstokliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formstokliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formfaturaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formfaturaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formfaturaliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formfaturaliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formfaturaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formfaturaliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuliste.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuolustur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuolustur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formrandevuolustur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastaguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastaguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\formhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\formhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\models\\disklinigicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\models\\disklinigicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\disklinigiyonetimsistemi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A1706E6-7291-4A1F-BD62-9DA266E1ED7A}|DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi.csproj|solutionrelative:disklinigiyonetimsistemi\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKritikStok.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:41:06.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormKritikStok.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormKritikStok.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormKritikStok.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:40:50.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKritikStok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormKritikStok.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormKritikStok.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormKritikStok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:40:42.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGelirRaporu.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:35:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGelirRaporu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormGelirRaporu.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormGelirRaporu.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:35:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormGelirRaporu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormGelirRaporu.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormGelirRaporu.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormGelirRaporu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:35:22.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHastaListe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaListe.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaListe.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaListe.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaListe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:34:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHastaRaporu.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:34:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHastaRaporu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaRaporu.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaRaporu.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:33:48.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormHastaRaporu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaRaporu.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaRaporu.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaRaporu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:33:36.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormStokListe.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:25:37.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormStokListe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormStokListe.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormStokListe.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:25:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStokListe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormStokListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormStokListe.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormStokListe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:25:00.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormFaturaListe.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:16:33.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormFaturaListe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormFaturaListe.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormFaturaListe.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:16:20.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormFaturaListe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormFaturaListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormFaturaListe.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormFaturaListe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:16:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormRandevuListe.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:04:56.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormRandevuListe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuListe.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuListe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:04:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormRandevuListe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuListe.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuListe.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuListe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:04:25.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormRandevuOlustur.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:02:06.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormRandevuOlustur.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.Designer.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.Designer.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.Designer.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv6IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:01:45.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormRandevuOlustur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormRandevuOlustur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:01:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormHastaGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:42:19.036Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormHastaGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:41:30.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormHastaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowHAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:13:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormHastaKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\FormHastaKayit.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\FormHastaKayit.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\FormHastaKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:54:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Form1.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:11:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DisKlinigiContext.cs",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Models\\DisKlinigiContext.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\Models\\DisKlinigiContext.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Models\\DisKlinigiContext.cs",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\Models\\DisKlinigiContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:00:01.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\App.config",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\App.config",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\App.config",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-21T13:45:21.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "DisKlinigiYonetimSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\berha\\source\\repos\\DisKlinigiYonetimSistemi\\DisKlinigiYonetimSistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "DisKlinigiYonetimSistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:23:45.299Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
